@@ -3,13 +3,13 @@
     background-color: pink;
 }
 
+.odd#third {
+    font-size: 1.5rem; 
+}
+
 #second {
     color: blue;
     font-size: 2.25rem;
-}
-
-#third {
-    font-size: 1.5rem;
 }
 
 #fourth {
